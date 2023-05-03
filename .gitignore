@@ -1,2 +1,3 @@
-assets/weights/main-weights.pt
-assets/weights/weights.pt
+assets/
+
+BERTTrainAndSave/
