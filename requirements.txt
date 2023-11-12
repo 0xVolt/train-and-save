@@ -3,3 +3,4 @@ matplotlib
 sklearn
 transformers
 pandas
+tensorflow=2.10
